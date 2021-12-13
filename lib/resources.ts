@@ -2,6 +2,7 @@ import home from './home';
 import products from './all-products';
 import buy from './buy';
 import about from './about';
+import comingSoon from './coming-soon'
 import { traditionalized } from './utils';
 
 const twTranslation = {
@@ -24,6 +25,7 @@ export const resources = {
       ...products.en,
       ...buy.en,
       ...about.en,
+      ...comingSoon.en
     }
   },
   zh: {
@@ -33,6 +35,7 @@ export const resources = {
       ...products.zh,
       ...buy.zh,
       ...about.zh,
+      ...comingSoon.zh
     }
   },
   tw: {
