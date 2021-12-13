@@ -1,42 +1,42 @@
 export default {
     zh: {
-        all_products: '所有商品'
-        buy: '购买'
-        whitepaper: '白皮书'
-        about: '关于'
-        profile: '个人主页'
-        log_out: '登出'
-        buy_now: '现在购买'
-        introduction: '功能介绍'
-        roadmap: '路线图'
-        pre_sale: '预购'
-        official_sale: '正式发售'
-        team: '团队'
-        collaborator: '合作方'
-        outline: '目录'
-        faq: '常见问题'
-        more: '更多'
-        links: '链接'
+        all_products: '所有商品',
+        buy: '购买',
+        whitepaper: '白皮书',
+        about: '关于',
+        profile: '个人主页',
+        log_out: '登出',
+        buy_now: '现在购买',
+        introduction: '功能介绍',
+        roadmap: '路线图',
+        pre_sale: '预购',
+        official_sale: '正式发售',
+        team: '团队',
+        collaborator: '合作方',
+        outline: '目录',
+        faq: '常见问题',
+        more: '更多',
+        links: '链接',
         opensea: 'opensea'
     },
     en: {
-        all_products: 'all products'
-        buy: 'buy'
-        whitepaper: 'whitepaper'
-        about: 'about'
-        profile: 'profile'
-        log_out: 'log out'
-        buy_now: 'BUY NOW'
-        introduction: 'INTRODUCTION'
-        roadmap: 'ROADMAP'
-        pre_sale: 'PRE-SALE'
-        official_sale: ' OFFICAL-SALE'
-        team: 'TEAM'
-        collaborator: 'COLLABORATOR'
-        outline: 'OUTLINE'
-        faq: 'FAQ'
-        more: 'MORE'
-        links: 'LINKS'
+        all_products: 'all products',
+        buy: 'buy',
+        whitepaper: 'whitepaper',
+        about: 'about',
+        profile: 'profile',
+        log_out: 'log out',
+        buy_now: 'BUY NOW',
+        introduction: 'INTRODUCTION',
+        roadmap: 'ROADMAP',
+        pre_sale: 'PRE-SALE',
+        official_sale: ' OFFICAL-SALE',
+        team: 'TEAM',
+        collaborator: 'COLLABORATOR',
+        outline: 'OUTLINE',
+        faq: 'FAQ',
+        more: 'MORE',
+        links: 'LINKS',
         opensea: 'opensea'
     }
   };
