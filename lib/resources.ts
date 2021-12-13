@@ -5,6 +5,7 @@ import about from './about';
 import { traditionalized } from './utils';
 
 const twTranslation = {
+  tw: '繁体中文',
   ...home.zh,
   ...products.zh,
   ...buy.zh,
@@ -35,6 +36,6 @@ export const resources = {
     }
   },
   tw: {
-    translation: { tw: '繁体中文', ...twTranslation }
+    translation: twTranslation
   }
 };
