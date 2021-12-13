@@ -18,6 +18,7 @@ for (const key in twTranslation) {
 export const resources = {
   en: {
     translation: {
+      en: 'English',
       ...home.en,
       ...products.en,
       ...buy.en,
@@ -26,6 +27,7 @@ export const resources = {
   },
   zh: {
     translation: {
+      zh: '简体中文',
       ...home.zh,
       ...products.zh,
       ...buy.zh,
@@ -33,6 +35,6 @@ export const resources = {
     }
   },
   tw: {
-    translation: twTranslation
+    translation: { tw: '繁体中文', ...twTranslation }
   }
 };
