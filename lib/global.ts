@@ -1,7 +1,7 @@
 export default {
     social: {
-        discord: '',
-        twitter: '',
-        instagram: ''
+        discord: 'https://www.discord.com',
+        twitter: 'https://www.twitter.com',
+        instagram: 'https://www.instagram.com'
     }
 };

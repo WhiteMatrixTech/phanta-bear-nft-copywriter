@@ -13,7 +13,7 @@ const twTranslation = {
   ...about.zh,
 };
 
-for (const key in twTranslation) {
+for (const key in  twTranslation) {
   twTranslation[key] = traditionalized(twTranslation[key])
 }
 
