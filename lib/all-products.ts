@@ -1,8 +1,8 @@
 export default {
     zh: {
-        all_products: '所有商品'
+        coming_soon: '即将开始！'
     },
     en: {
-        all_products: 'all products'
+        coming_soon: ' COMING SOON!'
     }
   };
