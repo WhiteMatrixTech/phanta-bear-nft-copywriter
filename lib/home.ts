@@ -1,6 +1,7 @@
 export default {
     zh: {
         homepage: '主页',
+        sign_in: '登陆',
         all_products: '所有商品',
         buy: '购买',
         whitepaper: '白皮书',
@@ -53,6 +54,7 @@ export default {
     },
     en: {
         homepage: 'Homepage',
+        sign_in: 'SIGN IN',
         all_products: 'All Products',
         buy: 'Buy',
         whitepaper: 'Whitepaper',
