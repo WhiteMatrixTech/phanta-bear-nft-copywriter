@@ -20,7 +20,7 @@ export default {
         member_perk_title5: 'The Dao',
         member_perk_content5: '我们将创建一个社区钱包，用于丰富 Phanta Bear 社区，所有 Phanta Bear 持有者都可以提出并投票旨在增加 Phanta Bear 价值的倡议，以及我们可能从商业用途中获得的任何利润的 10% Phanta Bear 将转到社区钱包。',
         member_perk_title6: '商店折扣',
-        member_perk_content6: 'Phanta Bear 的拥有者可以享受 Phantaici 全球商店实体服装的 15% 折扣'
+        member_perk_content6: 'Phanta Bear 的拥有者可以享受 PHANTACi 全球商店实体服装的 15% 折扣'
     },
     en: {
         your_account: 'YOUR ACCOUNT',
