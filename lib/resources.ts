@@ -5,6 +5,7 @@ import about from './about';
 import profile from './profile';
 import global from './global';
 import common from './common';
+import signup from './signup';
 import { traditionalized } from './utils';
 
 const twTranslation = {
@@ -14,6 +15,7 @@ const twTranslation = {
   ...buy.zh,
   ...about.zh,
   ...profile.zh,
+  ...signup.zh,
   ...common.zh
 };
 
@@ -30,6 +32,7 @@ export const resources = {
       ...buy.en,
       ...about.en,
       ...profile.en,
+      ...signup.en,
       ...common.en
     }
   },
@@ -41,6 +44,7 @@ export const resources = {
       ...buy.zh,
       ...about.zh,
       ...profile.zh,
+      ...signup.zh,
       ...common.zh
     }
   },
