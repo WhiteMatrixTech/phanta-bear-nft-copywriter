@@ -2,6 +2,7 @@ import home from './home';
 import products from './all-products';
 import buy from './buy';
 import about from './about';
+import profile from './profile';
 import global from './global'
 import { traditionalized } from './utils';
 
@@ -11,6 +12,7 @@ const twTranslation = {
   ...products.zh,
   ...buy.zh,
   ...about.zh,
+  ...profile.zh
 };
 
 for (const key in  twTranslation) {
@@ -25,6 +27,7 @@ export const resources = {
       ...products.en,
       ...buy.en,
       ...about.en,
+      ...profile.en
     }
   },
   zh: {
@@ -34,6 +37,7 @@ export const resources = {
       ...products.zh,
       ...buy.zh,
       ...about.zh,
+      ...profile.zh
     }
   },
   tw: {
