@@ -2,9 +2,9 @@ export default {
     zh: {
         signup: '登录',
         email_address: '邮箱地址',
-        email_address_error: '请输入正确的邮箱地址',
+        email_address_error: '请输入有效的邮箱地址',
         send_verification_code: '发送验证码',
-        send_verification_code_ing: '发送中',
+        send_verification_code_ing: '发送中...',
         send_verification_code_again: '再次发送',
         send_verification_code_mobile: '发送',
         verification_code: '验证码',
@@ -15,7 +15,7 @@ export default {
     en: {
         signup: 'SIGNUP',
         email_address: 'Email Address',
-        email_address_error: 'Please input the correct email address.',
+        email_address_error: 'Please enter a valid email address.',
         send_verification_code: 'Send Verification Code',
         send_verification_code_ing: 'Sending...',
         send_verification_code_again: 'Send Again',
