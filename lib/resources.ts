@@ -3,7 +3,8 @@ import products from './all-products';
 import buy from './buy';
 import about from './about';
 import profile from './profile';
-import global from './global'
+import global from './global';
+import common from './common';
 import { traditionalized } from './utils';
 
 const twTranslation = {
@@ -12,7 +13,8 @@ const twTranslation = {
   ...products.zh,
   ...buy.zh,
   ...about.zh,
-  ...profile.zh
+  ...profile.zh,
+  ...common.zh
 };
 
 for (const key in  twTranslation) {
@@ -27,7 +29,8 @@ export const resources = {
       ...products.en,
       ...buy.en,
       ...about.en,
-      ...profile.en
+      ...profile.en,
+      ...common.en
     }
   },
   zh: {
@@ -37,7 +40,8 @@ export const resources = {
       ...products.zh,
       ...buy.zh,
       ...about.zh,
-      ...profile.zh
+      ...profile.zh,
+      ...common.zh
     }
   },
   tw: {
