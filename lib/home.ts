@@ -1,5 +1,6 @@
 export default {
     zh: {
+        homepage: '主页',
         all_products: '所有商品',
         buy: '购买',
         whitepaper: '白皮书',
@@ -51,6 +52,7 @@ export default {
         opensea: 'opensea'
     },
     en: {
+        homepage: 'homepage',
         all_products: 'all products',
         buy: 'buy',
         whitepaper: 'whitepaper',
