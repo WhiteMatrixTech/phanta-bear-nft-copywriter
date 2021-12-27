@@ -100,6 +100,7 @@ export default {
         collaborator: 'COLLABORATOR',
         outline: 'OUTLINE',
         faq: 'FAQ',
+        disclaimer: 'Disclaimer',
         more: 'MORE',
         links: 'LINKS',
         all_rights_reserved1: 'All rights reserved by Starvision Entertainment Ltd.',
