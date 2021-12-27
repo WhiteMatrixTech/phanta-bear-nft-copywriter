@@ -1,6 +1,6 @@
 export default {
     social: {
-        discord: 'https://discord.com/invite/RDNRdZY7An',
+        discord: 'https://discord.gg/ezekclub',
         twitter: 'https://twitter.com/EzekClub',
         instagram: 'https://www.instagram.com/ezekclub/'
     },
