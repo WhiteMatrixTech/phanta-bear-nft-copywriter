@@ -66,7 +66,7 @@ export default {
         log_out: 'Log Out',
         buy_now: 'BUY NOW',
         counting_down1: 'The Phanta Bear sale starts at',
-        counting_down2: '11:00 AM CST Jan. 1st 2022',
+        counting_down2: '11:00 AM GMT+8 Jan. 1st 2022',
         introduction: 'INTRODUCTION',
         introduction_title1: 'Phanta Bear',
         introduction_content1: 'Each Phanta Bear has a unique set of traits and unlocks varying, unique levels of access and perks for its owner.',
