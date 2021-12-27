@@ -10,7 +10,9 @@ export default {
         verification_code: '验证码',
         verification_code_error: '验证码错误',
         sign_me_up: '现在绑定!',
-        email_has_been_bound: '邮箱已经被绑定过'
+        signup_success: '您的邮箱绑定成功！',
+        email_has_been_bound: '邮箱已经被绑定过',
+        user_already_registered: '账户已经注册过'
     },
     en: {
         signup: 'ADD YOUR EMAIL',
@@ -23,6 +25,8 @@ export default {
         verification_code: 'Verification Code',
         verification_code_error: 'The verification code is incorrect.',
         sign_me_up: 'Add Now!',
-        email_has_been_bound: 'Email has already been bound.'
+        signup_success: 'Your email has been added successfully!',
+        email_has_been_bound: 'Email has already been bound.',
+        user_already_registered: 'This user has already registered.'
     }
   };
