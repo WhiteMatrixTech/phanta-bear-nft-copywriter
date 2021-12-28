@@ -41,7 +41,7 @@ export default {
         matrix_banner_content4: '这里',
         matrix_banner_content5: '查看更多。',
         team_1: 'WILL L',
-        team_1_introduction: 'Will L 是一个肌肉男，他为中国流行天王写了许多著名的歌词。现在他将把传统的娱乐世界带到新的区块链世界！'
+        team_1_introduction: 'Will L 是一个肌肉男，他为中国流行天王写了许多著名的歌词。现在他将把传统的娱乐世界带到新的区块链世界！',
         team_2: 'Mark G',
         team_2_introduction: '他在巴黎学习电影制作多年，并曾与一位好莱坞传奇明星一起周游世界，将中国文化带给了中东和西方的各路名流。现在他想把他所有的娱乐体验带到这个新的区块链世界。'
         team_3: 'Ed Ow',
@@ -100,7 +100,7 @@ export default {
         team_1: 'WILL L',
         team_1_introduction: 'Will L is a Muscle Man, who has wrote famous Lyric for the Mandopop King. Now he will bring the traditional entertainment world to the New Blockchain World!',
         team_2: 'Mark G',
-        team_2_introduction: 'He has Studied filmmaking in Paris for years and he has traveled all over the world with a legendary star from Hollywood. Bringing the Chinese culture to the top people to Mid-East and West. Now he wants to bring all his entertainment experience to this New Blockchain World.'
+        team_2_introduction: 'He has Studied filmmaking in Paris for years and he has traveled all over the world with a legendary star from Hollywood. Bringing the Chinese culture to the top people to Mid-East and West. Now he wants to bring all his entertainment experience to this New Blockchain World.',
         team_3: 'Ed Ow',
         team_3_introduction: 'Ed Ow, the technical co-founder, has worked with partners such as HTC.Ed Ow is a serial entrepreneur and investor well-known for his out-of-the-box thinking. He founded, managed, or sold several successful businesses while studying Energy Economics at UC Berkeley.',
         collaborator: 'COLLABORATOR',
