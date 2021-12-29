@@ -6,6 +6,7 @@ import profile from './profile';
 import global from './global';
 import common from './common';
 import signup from './signup';
+import owned from './owned'
 import { traditionalized } from './utils';
 
 const twTranslation = {
@@ -16,7 +17,8 @@ const twTranslation = {
   ...about.zh,
   ...profile.zh,
   ...signup.zh,
-  ...common.zh
+  ...common.zh,
+  ...owned.zh
 };
 
 for (const key in  twTranslation) {
@@ -33,7 +35,8 @@ export const resources = {
       ...about.en,
       ...profile.en,
       ...signup.en,
-      ...common.en
+      ...common.en,
+      ...owned.en
     }
   },
   zh: {
@@ -45,7 +48,8 @@ export const resources = {
       ...about.zh,
       ...profile.zh,
       ...signup.zh,
-      ...common.zh
+      ...common.zh,
+      ...owned.zh
     }
   },
   tw: {
