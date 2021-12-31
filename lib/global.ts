@@ -9,7 +9,7 @@ export default {
         isShowMusic: false
     },
     opeansea: {
-        main: 'https://testnets.opensea.io/assets/0xa9d29db8b0a2e87482b7d2ead732aaf161dac3d9/',
+        main: 'https://opensea.io/assets/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/',
         rinkeby: 'https://testnets.opensea.io/assets/0xa9d29db8b0a2e87482b7d2ead732aaf161dac3d9/',
     }
 };
