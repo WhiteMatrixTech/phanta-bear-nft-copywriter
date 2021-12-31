@@ -13,6 +13,7 @@ export default {
         buy_success_content2: '稍后您可以在个人主页查看。',
         buy_sign_in: '去登陆',
         sold_out: '已售罄',
+        left: '剩余',
         insufficient_fund: '账户余额不足。',
         amount_exceeded: '您选择的数量超出限额。'
 
@@ -31,6 +32,7 @@ export default {
         buy_success_content2: 'You can view them in profile page later.',
         buy_sign_in: 'SIGN IN',
         sold_out: 'SOLD OUT',
+        left: 'Left',
         insufficient_fund: 'Account balance is insufficient.',
         amount_exceeded: 'The amount you selected exceeds the limit.'
 
