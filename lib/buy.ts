@@ -17,6 +17,7 @@ export default {
         price: ' Price',
         amount: 'Amount',
         buy_introduction: 'Phanta Bear is a collection of 10,000 algorithmically generated digital collectibles that double as memebership cards for the Ezek Club. Each Phanta Bear has a unique set of traits and unlocks varying, unique levels of access and perks for its owner. Phanta Bear project was jointly launched by PHANTACi and Ezek.'
+        buy_introduction: 'Phanta Bear is a collection of 10,000 algorithmically generated digital collectibles that double as memebership cards for the Ezek Club. Each Phanta Bear has a unique set of traits and unlocks varying, unique levels of access and perks for its owner. Phanta Bear project was jointly launched by PHANTACi and Ezek.',
         buy_button: 'BUY NOW',
         buy_via_whitelist: 'BUY VIA WHITELIST',
         buy_via_whitelist_info1: 'Amount: {{count}} Phanta Bear(s)',
@@ -27,4 +28,4 @@ export default {
         buy_success_content2: 'You can view them in profile page later.'
 
     }
-  };
+};
