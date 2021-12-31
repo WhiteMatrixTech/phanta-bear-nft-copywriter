@@ -7,5 +7,9 @@ export default {
     comingSoon: {
         musicUrl: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3',
         isShowMusic: false
+    },
+    opeansea: {
+        main: 'https://testnets.opensea.io/assets/0xa9d29db8b0a2e87482b7d2ead732aaf161dac3d9/',
+        rinkeby: 'https://testnets.opensea.io/assets/0xa9d29db8b0a2e87482b7d2ead732aaf161dac3d9/',
     }
 };
