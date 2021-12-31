@@ -11,7 +11,7 @@ export default {
         buy_success_title: '恭喜!',
         buy_success_content1: '您已成功拥有 {count}}只 Phanta Bear(s)!',
         buy_success_content2: '稍后您可以在个人主页查看。',
-        buy_sign_in: '登陆'
+        buy_sign_in: '去登陆'
 
     },
     en: {
@@ -25,8 +25,8 @@ export default {
         view_in_opensea: 'VIEW IN OPENSEA',
         buy_success_title: 'Congratulations!',
         buy_success_content1: 'You’ve successfully owned {{count}} Phanta Bear(s)!',
-        buy_success_content2: 'You can view them in profile page later.'
-        buy_sign_in: 'SIGN IN'
+        buy_success_content2: 'You can view them in profile page later.',
+        buy_sign_in: 'TO SIGN IN'
 
     }
 };
