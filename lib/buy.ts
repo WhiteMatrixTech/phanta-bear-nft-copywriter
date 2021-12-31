@@ -9,7 +9,7 @@ export default {
         buy_via_whitelist_info2: '时间: 上午11:00 ~ 下午1:00 2022年1月1日 UTC+8',
         view_in_opensea: '去OPENSEA查看',
         buy_success_title: '恭喜!',
-        buy_success_content1: '您已成功拥有 {count}}只 Phanta Bear(s)!',
+        buy_success_content1: '您已成功拥有 {{count}} 只 Phanta Bear(s)!',
         buy_success_content2: '稍后您可以在个人主页查看。',
         buy_sign_in: '去登陆'
 
