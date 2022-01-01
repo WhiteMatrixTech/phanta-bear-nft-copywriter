@@ -1,7 +1,7 @@
 export default {
     zh: {
         homepage: '主页',
-        sign_in: '登陆',
+        sign_in: '登录',
         all_products: 'NFT',
         buy: '购买',
         team: '团队',
