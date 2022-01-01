@@ -15,8 +15,8 @@ export default {
         sold_out: '已售罄',
         left: '剩余',
         insufficient_fund: '账户余额不足。',
-        amount_exceeded: '您选择的数量超出限额。'
-
+        amount_exceeded: '您选择的数量超出限额。',
+        errorMsg: '库存不足。如果您是白名单用户，请使用“白名单购买”。'
     },
     en: {
         price: ' Price',
@@ -34,7 +34,7 @@ export default {
         sold_out: 'SOLD OUT',
         left: 'Left',
         insufficient_fund: 'Account balance is insufficient.',
-        amount_exceeded: 'The amount you selected exceeds the limit.'
-
+        amount_exceeded: 'The amount you selected exceeds the limit.',
+        errorMsg: 'Insufficient stock. If you are whitelisted, please use "BUY VIA WHITELIST".'
     }
 };
