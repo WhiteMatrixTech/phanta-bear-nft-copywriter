@@ -78,7 +78,7 @@ export default {
         introduction_title3: 'JAY style',
         introduction_content3: 'Every Phanta Bear features clothing and accesories designed by PHANTACi, the fashion brand co-founded by Jay Chou and his friend Ric in 2006.',
         introduction_title4: 'Membership',
-        introduction_content4: 'Your Phanta Bear doubles as your Fantasy membership card, and grants you access to members-only benefits.',
+        introduction_content4: 'Your Phanta Bear doubles as your Ezek membership card, and grants you access to members-only benefits.',
         roadmap_time1: '2022',
         roadmap_time1_1: '01/01',
         roadmap_content1: 'Ezek.io platform and Phanta Bear NFT release and Ezek Club Community launch with special benefits.',
