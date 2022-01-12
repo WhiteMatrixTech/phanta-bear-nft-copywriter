@@ -25,7 +25,7 @@ export default {
         buy_button: 'BUY NOW',
         buy_via_whitelist: 'BUY VIA WHITELIST',
         buy_via_whitelist_info1: 'Amount: {{count}} Phanta Bear(s)',
-        buy_via_whitelist_info2: 'Time: 11:00 AM ~ 1:00 PM Jan. 1st 2022 UTC+8',
+        buy_via_whitelist_info2: 'Time: 11:00 AM ~ 1:00 PM Jan. 1st 2022 UTC+8   ',
         view_in_opensea: 'VIEW IN OPENSEA',
         buy_success_title: 'Congratulations!',
         buy_success_content1: 'You’ve successfully owned {{count}} Phanta Bear(s)!',
@@ -38,3 +38,4 @@ export default {
         errorMsg: 'Insufficient stock. If you are whitelisted, please use "BUY VIA WHITELIST".'
     }
 };
+
