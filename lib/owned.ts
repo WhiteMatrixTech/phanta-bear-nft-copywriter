@@ -15,6 +15,5 @@ export default {
         claim_button: 'CLAIM NOW!',
         claim_button_info: 'You can only claim at most 50 per time. You have {{claim_count}} left to claim.',
         claim_success: 'CLAIM successfully！You can view your NFT(s) in OpenSea.'
-
     }
   };
