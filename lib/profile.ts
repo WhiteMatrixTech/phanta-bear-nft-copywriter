@@ -19,7 +19,7 @@ export default {
         member_perk_content3: '持续产出赋予 PhantaBear 文化，由 PHANTACi 设计制造的 Members-Only 限量版实体产品。',
         member_perk_title4: 'PhantaBear 元宇宙',
         member_perk_content4: '进入PhantaBear 虚拟土地、游戏系列及虚拟演唱会独家权利。',
-        member_perk_title5: 'Phanta Treature',
+        member_perk_title5: 'Phanta Treasure',
         member_perk_content5: '使用 PhantaBear 社区钱包。投票提案决定钱包的使用方向、建构社区，以及藉此扩展 PhantaBear 的全球影响力，最大化提升 PhantaBear 的价值。',
         member_perk_title6: '',
         member_perk_content6: ''
