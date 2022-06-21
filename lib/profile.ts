@@ -22,7 +22,8 @@ export default {
         member_perk_title5: 'Phanta Treasure',
         member_perk_content5: '使用 PhantaBear 社区钱包。投票提案决定钱包的使用方向、建构社区，以及藉此扩展 PhantaBear 的全球影响力，最大化提升 PhantaBear 的价值。',
         member_perk_title6: '',
-        member_perk_content6: ''
+        member_perk_content6: '',
+        QRcodeRefresh: '<span>{{count}}s</span>后自动刷新',
     },
     en: {
         your_account: 'YOUR ACCOUNT',
@@ -47,7 +48,8 @@ export default {
         member_perk_title5: 'PhantaBear Treasure',
         member_perk_content5: '4.A community wallet that can be utilized by PhantaBear holders to expand PhantaBear‘s global influences in various fields. All holders can propose and vote on how to utilize the community wallet in order to maximize the value of PhantaBear',
         member_perk_title6: '',
-        member_perk_content6: ''
-    
+        member_perk_content6: '',
+        QRcodeRefresh: 'Refresh in <span>{{count}}s</span>'
+
     }
   };
