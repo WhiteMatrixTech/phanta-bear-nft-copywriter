@@ -24,6 +24,8 @@ export default {
         member_perk_title6: '',
         member_perk_content6: '',
         QRcodeRefresh: '<span>{{count}}s</span>后自动刷新',
+        QRcodeSuccess: '验证成功，该用户拥有<span>{{count}}</span>只熊',
+        QRcodeFailed: '验证失败',
     },
     en: {
         your_account: 'YOUR ACCOUNT',
@@ -49,7 +51,9 @@ export default {
         member_perk_content5: '4.A community wallet that can be utilized by PhantaBear holders to expand PhantaBear‘s global influences in various fields. All holders can propose and vote on how to utilize the community wallet in order to maximize the value of PhantaBear',
         member_perk_title6: '',
         member_perk_content6: '',
-        QRcodeRefresh: 'Refresh in <span>{{count}}s</span>'
+        QRcodeRefresh: 'Refresh in <span>{{count}}s</span>',
+        QRcodeSuccess: 'Successful verification! The user owns <span>{{count}}</span> of bears.',
+        QRcodeFailed: 'Verification failed',
 
     }
   };
